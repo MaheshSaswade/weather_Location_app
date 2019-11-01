@@ -19,6 +19,7 @@ if(!address) {
             } 
             console.log(place_Name);
             console.log(forecastData);
+            console.log("mahesh");
         })
         
     })
